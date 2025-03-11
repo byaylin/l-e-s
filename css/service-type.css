@@ -1,0 +1,84 @@
+*{
+    font-family: "Pavanam", sans-serif;
+    font-style: normal;
+    color:#f8f9fa;
+}
+
+section img {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+}
+
+section h2 {
+    font-size: 30px;
+    text-align: center;
+    color: #f8f9fa;
+    background-color: #2f3e46;
+    padding: 15px;
+    font-family: "Anton", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.service-info{
+  padding-left: 50px ;
+  padding-right: 50px;
+  font-size: 20px;
+  justify-content: space-around;
+}
+
+.service-info h3 {
+  font-size: 25px;
+  text-align: center;
+  color: #f8f9fa;
+  padding: 15px;
+}
+
+.roof-cleaning img {
+  height: fit-content;
+  width: 30%;
+  margin: 20px;
+}
+
+.carousel-item img {
+  height: 560px;
+  width: fit-content;
+  padding-left: 7%;
+  padding-right: 10%;
+  align-items: center;
+}
+
+.house-wash {
+  margin-top: 3%;
+}
+
+.house-wash-img {
+  height: fit-content;
+  width: 30%;
+  float: right;
+  margin: 20px;
+  margin-top: 3%;
+}
+
+.pressure-washing img {
+  height: 500px;
+  width: 30%;
+  margin: 20px;
+}
+
+section .service-title {
+  font-size: 30px;
+}
+
+.gutter-carousel {
+  margin-top: 3%;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+.learn-more-btn{
+  position:relative;
+  margin-top: 10%;
+  margin-bottom: 40%;
+}
